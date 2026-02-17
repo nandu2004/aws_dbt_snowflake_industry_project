@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Snowflake credentials
+profiles.yml
+**/profiles.yml
+
+.user.yml
+**/.user.yml
+
+
+# Environment files
+.env
+.env.*
+
+# Lock files (optional — keep if team uses uv/poetry)
+# uv.lock
+# poetry.lock
