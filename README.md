@@ -70,9 +70,12 @@ Configure Snowflake credentials in `~/.dbt/profiles.yml`
 * maintainable SQL using dbt
 * reproducible data pipelines
 
+<img width="1557" height="773" alt="image" src="https://github.com/user-attachments/assets/372a83c5-fd22-4643-95df-30a264a90bab" />
+
 ---
 
 ## Notes
 
 Credentials and local configuration files are excluded from version control.
 This repository is intended as a learning and portfolio project.
+
